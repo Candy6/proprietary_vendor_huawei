@@ -90,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
     vendor/huawei/angler/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/huawei/angler/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
-    vendor/huawei/angler/proprietary/etc/cne/profile.txt:system/etc/cne/profile.txt \
     vendor/huawei/angler/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/huawei/angler/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/huawei/angler/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
@@ -98,7 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/huawei/angler/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/huawei/angler/proprietary/etc/lowi.conf:system/etc/lowi.conf \
-    vendor/huawei/angler/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/huawei/angler/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/huawei/angler/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/huawei/angler/proprietary/etc/pp_calib_data_SAMSUNG_S6E3HA3X01_5P7_1440P_CMD_DUAL0.xml:system/etc/pp_calib_data_SAMSUNG_S6E3HA3X01_5P7_1440P_CMD_DUAL0.xml \

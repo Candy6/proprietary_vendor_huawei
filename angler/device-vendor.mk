@@ -27,7 +27,3 @@ PRODUCT_PACKAGES += \
     com.google.widevine.software.drm \
     qcrilhook
 
-# Prebuilt privileged APKs
-PRODUCT_PACKAGES += \
-    CNEService
-
